@@ -16,6 +16,8 @@
 (A + B + C) % 3 == 0
 
 ### Блок-схема
+<img width="422" height="562" alt="homework4" src="https://github.com/user-attachments/assets/c9ac9bbc-d944-4f8f-a57e-0c4afd0dd05a" />
+
 ## 2. Реализация программы
 
 ```c
